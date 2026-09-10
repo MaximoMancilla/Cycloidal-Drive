@@ -2,8 +2,7 @@
 Parametric 14:1 cycloidal drive designed in Autodesk Inventor with desktop 3D printing in mind.
 <img width="572" height="628" alt="image" src="https://github.com/user-attachments/assets/b8c3c1b4-5a45-423a-bb51-0a20b8db7d8c" />
 
-
-**[View the full project documentation on Notion →](YOUR-NOTION-LINK)**
+<iframe src="https://closed-antimatter-677.notion.site/ebd//3d7519f780bc809abcaed0f8071f4c46" width="100%" height="600" frameborder="0" allowfullscreen />
 
 ## Files
 
