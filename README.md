@@ -9,7 +9,6 @@ https://closed-antimatter-677.notion.site/ebd//3d7519f780bc809abcaed0f8071f4c46
 
 * `CAD/` — Autodesk Inventor assembly and individual parts
 * `Drawings/` — Engineering drawings
-* `Images/` — Project images
 
 **Software:** Autodesk Inventor
 **Reduction ratio:** 14:1
